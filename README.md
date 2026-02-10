@@ -13,15 +13,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-## 📊 Git Status
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sarahmaneira&theme=dracula&show_icons=true&count_private=true&include_all_commits=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmaneira&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-
-<br clear="both"/>
-
 ## 📬 Contato
 
 <a href="https://www.linkedin.com/in/sarahmaneira/" target="_blank">
