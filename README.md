@@ -16,11 +16,6 @@ Atualmente, sigo aprofundando meus conhecimentos em desenvolvimento de software,
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahmaneira&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmaneira&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 💼 Sobre mim
 
 - 🎓 Estudante de Sistemas de Informação
