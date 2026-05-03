@@ -18,11 +18,11 @@ Atualmente, sigo aprofundando meus conhecimentos em desenvolvimento de software,
 
 ## 💼 Sobre mim
 
-- 🎓 Estudante de Sistemas de Informação
-- 📱 Atuação com desenvolvimento mobile
-- 🛠️ Foco atual em Flutter
-- 🌐 Experiência anterior com Vue.js
-- 📚 Sempre buscando evoluir tecnicamente e aprender novas tecnologias
+-  Estudante de Sistemas de Informação
+-  Atuação com desenvolvimento mobile
+-  Foco atual em Flutter
+-  Experiência anterior com Vue.js
+
 
 ## 📫 Contato
 
