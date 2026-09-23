@@ -1,6 +1,6 @@
 # Oi, eu sou a Sarah Maneira 👋
 
-Sou estudante do **5º período de Sistemas de Informação** e atuo com **desenvolvimento mobile**, com foco em **Flutter**.  
+Sou estudante do **6º período de Sistemas de Informação** e atuo com **desenvolvimento mobile**, com foco em **Flutter**.  
 Também já trabalhei com **Vue.js**, o que me deu uma base boa no desenvolvimento de interfaces e aplicações web.
 
 Atualmente, sigo aprofundando meus conhecimentos em desenvolvimento de software, buscando evoluir cada vez mais na criação de aplicações funcionais, bem estruturadas e com boa experiência para o usuário.
